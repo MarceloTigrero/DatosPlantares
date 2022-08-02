@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `c:/Users/bryan/OneDrive/Escritorio/I_PAO_2022_8vo/EMG/Adquisision_de_datos/Adquisicion/Marcelo_Melany_acquisition'
+make.exe: Leaving directory `c:/Users/bryan/OneDrive/Escritorio/I_PAO_2022_8vo/EMG/Adquisision_de_datos/Adquisicion/Marcelo_Melany_acquisition'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+
