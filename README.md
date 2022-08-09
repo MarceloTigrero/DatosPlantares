@@ -10,4 +10,7 @@ Recoleccion1
 jupiter Notebook
 pyhon
 con sus respectivas librerias
+# Notas 
+pip install librerias
+
 #### Marcelo Tigrero 
