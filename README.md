@@ -12,5 +12,7 @@ pyhon
 con sus respectivas librerias
 # Notas 
 pip install librerias
+# Instalar Jupiter en visual studio code
+https://www.youtube.com/watch?v=h1sAzPojKMg
 
 #### Marcelo Tigrero 
